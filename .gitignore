@@ -1,0 +1,11 @@
+# Flutter specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.vscode/
+build/
+ios/Pods/
+.packages
+.pub-cache/
+.pub/
